@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27f3fafe-7592-45ea-86ac-b40971731c39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SberSchool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson01/lesson01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SberSchool.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/JavaSchool.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/lesson01/lesson01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/lesson01/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/lesson02/lesson02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/lesson02/src/com/sbt/lesson2/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/lesson02/src/com/sbt/lesson2/ClientImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSchool/lesson02/src/com/sbt/lesson2/Person.java" beforeDir="false" />
-    </list>
+    <list default="true" id="27f3fafe-7592-45ea-86ac-b40971731c39" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,8 +131,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573064644861</updated>
-      <workItem from="1573064649183" duration="3919000" />
+      <workItem from="1573064649183" duration="4163000" />
     </task>
+    <task id="LOCAL-00001" summary="lesson02">
+      <created>1573068608136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573068608136</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lesson02">
+      <created>1573068813440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573068813440</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,5 +163,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson02" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson02" />
   </component>
 </project>
